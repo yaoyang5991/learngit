@@ -5,3 +5,4 @@ git 命令
 修改3
 修改4
 修改5
+命令 git reset HEAD <file> : 添加命令git reset
