@@ -6,7 +6,4 @@ git 命令
 修改4
 修改5
 命令 git reset HEAD <file> : 添加命令git reset
-devlalc;a
-不舒服的吧
-我是在master上添加的
-我是在dev身上的内容
+我在dev里面
